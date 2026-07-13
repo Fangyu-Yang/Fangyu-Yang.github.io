@@ -1,10 +1,10 @@
 [![Fangyu-Yang](https://img.shields.io/badge/FangyuYang-github-blue?logo=github)](https://github.com/Fangyu-Yang)
 
-Her is currently an undergraduate student at the School of Instrument and Electronics, North University of China (中北大学).
+Her is currently an undergraduate student at the School of North University of China (中北大学).
 
 #### Contact
 
-Email: 2401044205@st.nuc.edu.cn
+Email: [2401044205@st.nuc.edu.cn](mailto:2401044205@st.nuc.edu.cn)
 
 #### Education
 

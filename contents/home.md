@@ -12,4 +12,4 @@ B.E., Detection Guidance and Control Technology (探测制导与控制技术), N
 
 #### Research Interests
 
-LLM Agent Security; Diffusion Attribute Editing.
+LLM Agent Security; Diffusion Model.
